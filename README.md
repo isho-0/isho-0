@@ -67,7 +67,11 @@ I strive for clean code, logical problem-solving, and continuous learning in mod
 
 ---
 
+## 🐱 Profile View
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=🐈‍⬛%20Profile%20Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=Profile%20Views" alt="Profile Views" />
+  
 </div>
     
