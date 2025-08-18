@@ -43,19 +43,13 @@ I strive for clean code, logical problem-solving, and continuous learning in mod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isho-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
 </div>
 
-## 📫 Contact Me
+
+## 🌱 Contribution Graph
 
 <div align="center">
-  <a href="https://www.instagram.com/is.ho.o/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://blog.naver.com/0x03ho" target="_blank">
-    <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog" />
-  </a>
-  <a href="mailto:isho010607@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://ghchart.rshah.org/58A6FF/isho-0" alt="GitHub Contribution Graph" />
 </div>
+
 
 ## 🎯 Current Focus
 
@@ -75,3 +69,17 @@ I strive for clean code, logical problem-solving, and continuous learning in mod
   
 </div>
     
+
+## 📫 Contact Me
+
+<div align="center">
+  <a href="https://www.instagram.com/is.ho.o/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://blog.naver.com/0x03ho" target="_blank">
+    <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog" />
+  </a>
+  <a href="mailto:isho010607@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
