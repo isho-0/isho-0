@@ -40,14 +40,14 @@ I strive for clean code, logical problem-solving, and continuous learning in mod
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isho-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isho-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isho-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
 </div>
 
 
 ## 🌱 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/isho-0" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/isho-0" alt="GitHub Contribution Graph"/>
 </div>
 
 
