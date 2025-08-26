@@ -39,8 +39,8 @@ I strive for clean code, logical problem-solving, and continuous learning in mod
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isho-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isho-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isho-0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isho-0&layout=compact&theme=ocean&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=0&v=1" alt="Top Languages"/>
 </div>
 
 
