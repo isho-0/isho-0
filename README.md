@@ -31,7 +31,7 @@
 - **Git**: 분산 버전 관리, 브랜치 전략, 코드 리뷰
 - **GitHub**: 오픈소스 기여, 프로젝트 관리, 협업
 
-## 📊 GitHub 분석
+## 📊 GitHub 활동
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isho-0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
@@ -45,7 +45,7 @@
 </div>
 
 
-## 🎯 현재 집중 분야
+## 🎯 집중 분야
 
 - **C++ 심화**: 메모리 관리, STL, 멀티스레딩 & 동기화
 - **네트워크 프로그래밍**: TCP/UDP 소켓, 비동기 I/O, 이벤트 기반 서버
@@ -56,7 +56,7 @@
 ## 🚀 주요 프로젝트
 
 ### 📚 알고리즘 & 코딩 테스트
-- **백준 온라인 저지**: 1000+ 문제 해결
+- **solved-ac**: 백준 온라인 저지 문제 해결
 - **프로그래머스**: 레벨 3 달성
 - **LeetCode**: 자료구조/알고리즘 능력 향상
 
