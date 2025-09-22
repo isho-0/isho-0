@@ -12,25 +12,26 @@
 
 ### **Language::핵심 언어** ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 
-
 <div align="center">
-  <img src="images/cpp_banner.png" alt="C++ Banner" width="100%" />
+  <img src="images/cpp_banner.png" alt="C++ Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 - **C++**: 고성능 시스템 프로그래밍, 게임 엔진 개발, 메모리 관리
 - **C**: 시스템 레벨 프로그래밍, 임베디드 시스템, 성능 최적화
 
 ### **Database::데이터베이스 및 캐싱** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+
 <div align="center">
-  <img src="images/database_banner.jpg" alt="C++ Banner" width="100%" />
+  <img src="images/database_banner.jpg" alt="Database Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 - **MySQL/MariaDB**: 관계형 데이터베이스 설계, 쿼리 최적화, 데이터 모델링
 - **Redis**: 캐싱, 세션 관리, 실시간 데이터 처리
 
 ### **Network::네트워크 프로그래밍** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Socket](https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket.io&logoColor=white)
+
 <div align="center">
-  <img src="images/network_banner.jpg" alt="C++ Banner" width="100%" />
+  <img src="images/network_banner.jpg" alt="Network Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 - **TCP/UDP 소켓**: 클라이언트-서버 구조, 멀티플레이 동기화
@@ -38,6 +39,11 @@
 - **리눅스 시스템**: 서버 환경 구축 및 성능 최적화
 
 ### **Ide::개발 도구** ![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
+<div align="center">
+  <img src="images/ide_banner.jpg" alt="IDE Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</div>
+
 - **CLion**: C++ 통합 개발 환경, 디버깅, 프로파일링
 - **VS Code**: 크로스 플랫폼 개발, 확장 기능 활용
 
