@@ -1,5 +1,9 @@
 # 👨‍💻 C++ 개발자 - isho
 
+<div align="center">
+  <img src="images/isho_profile.jpg" alt="isho profile" width="200" style="border-radius: 50%;" />
+</div>
+
 안녕하세요! 저는 효율적이고 안정적이며 고성능 애플리케이션을 구축하는 데 전념하는 C++ 개발자 **isho**입니다.
 
 깔끔한 코드, 논리적인 문제 해결, 그리고 현대적인 C++ 개발에서의 지속적인 학습을 추구합니다.
