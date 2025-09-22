@@ -29,6 +29,10 @@
 - **Redis**: 캐싱, 세션 관리, 실시간 데이터 처리
 
 ### **Network::네트워크 프로그래밍** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Socket](https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket.io&logoColor=white)
+<div align="center">
+  <img src="images/network_banner.jpg" alt="C++ Banner" width="100%" />
+</div>
+
 - **TCP/UDP 소켓**: 클라이언트-서버 구조, 멀티플레이 동기화
 - **비동기 I/O**: epoll, IOCP 기반 이벤트 기반 서버 개발
 - **리눅스 시스템**: 서버 환경 구축 및 성능 최적화
