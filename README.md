@@ -13,11 +13,20 @@
 - **C++**: 고성능 시스템 프로그래밍, 게임 엔진 개발, 메모리 관리
 - **C**: 시스템 레벨 프로그래밍, 임베디드 시스템, 성능 최적화
 
-### **데이터베이스 및 데이터 관리**
+### **데이터베이스 및 캐싱**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
 - **MySQL/MariaDB**: 관계형 데이터베이스 설계, 쿼리 최적화, 데이터 모델링
+- **Redis**: 캐싱, 세션 관리, 실시간 데이터 처리
+
+### **네트워크 프로그래밍**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Socket](https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket.io&logoColor=white)
+
+- **TCP/UDP 소켓**: 클라이언트-서버 구조, 멀티플레이 동기화
+- **비동기 I/O**: epoll, IOCP 기반 이벤트 기반 서버 개발
+- **리눅스 시스템**: 서버 환경 구축 및 성능 최적화
 
 ### **개발 도구 및 IDE**
 ![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white)
@@ -49,29 +58,30 @@
 
 ## 🎯 현재 집중 분야
 
-- **C++20/23** 현대적 기능 및 모범 사례
-- **성능 최적화** 및 **메모리 관리**
-- **자료구조 및 알고리즘** 구현
-- **시스템 프로그래밍** 및 **임베디드 시스템**
-- **알고리즘 문제 해결** 및 **경쟁 프로그래밍**
+- **C++ 심화**: 메모리 관리, STL, 멀티스레딩 & 동기화
+- **네트워크 프로그래밍**: TCP/UDP 소켓, 비동기 I/O, 이벤트 기반 서버
+- **서버 아키텍처**: 게임 로직 분리, 샤드, 로비, 매치메이킹
+- **데이터베이스 연동**: MySQL, Redis 캐싱 및 영속성 관리
+- **알고리즘 & 성능 최적화**: O(N), O(log N) 최적화 감각
 
 ---
 
 ## 🚀 주요 프로젝트
 
-### 📚 알고리즘 문제 해결
+### 📚 알고리즘 & 코딩 테스트
 - **백준 온라인 저지**: 1000+ 문제 해결
 - **프로그래머스**: 레벨 3 달성
-- **Codeforces**: 참여 및 경험
+- **LeetCode**: 자료구조/알고리즘 능력 향상
 
-### 💻 C++ 프로젝트
+### 🖥️ 서버 개발 프로젝트
+- **멀티플레이 게임 서버**: 채팅 + 미니게임 동시 접속 서버 구현
 - **고성능 데이터 처리 시스템**: 멀티스레딩 및 메모리 최적화
-- **자료구조 라이브러리**: STL 스타일의 커스텀 컨테이너 구현
-- **시스템 유틸리티**: 리눅스 환경에서의 시스템 모니터링 도구
+- **DB 연동 시스템**: 캐릭터/아이템/점수 관리, 캐싱 최적화
 
 ### 🎮 게임 개발 경험
 - **2D 게임 엔진**: C++ 기반의 간단한 게임 엔진 개발
 - **물리 엔진**: 충돌 감지 및 물리 시뮬레이션 구현
+- **실시간 멀티플레이**: 동기화 기법 및 트래픽 최적화
 
 ---
 
