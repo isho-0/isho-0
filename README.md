@@ -1,8 +1,8 @@
-# 👨‍💻 C++ 개발자 - isho
-
 <div align="center">
-  <img src="images/isho_profile.jpg" alt="isho profile" width="200" style="border-radius: 50%;" />
+  <img src="images/cpp_banner.png" alt="C++ Banner" width="100%" />
 </div>
+
+# 🙄 C++ 개발자 - isho
 
 안녕하세요! 저는 효율적이고 안정적이며 고성능 애플리케이션을 구축하는 데 전념하는 C++ 개발자 **isho**입니다.
 
@@ -10,49 +10,24 @@
 
 ## 🛠️ 기술 스택
 
-### **Language::핵심 언어** ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
-
-<div align="center">
-  <img src="images/cpp_banner.png" alt="C++ Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
+### 👉 **Language::핵심 언어** ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 - **C++**: 고성능 시스템 프로그래밍, 게임 엔진 개발, 메모리 관리
 - **C**: 시스템 레벨 프로그래밍, 임베디드 시스템, 성능 최적화
 
-### **Database::데이터베이스 및 캐싱** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
-
-<div align="center">
-  <img src="images/database_banner.jpg" alt="Database Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
+### 👉 **Database::데이터베이스 및 캐싱** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 - **MySQL/MariaDB**: 관계형 데이터베이스 설계, 쿼리 최적화, 데이터 모델링
 - **Redis**: 캐싱, 세션 관리, 실시간 데이터 처리
 
-### **Network::네트워크 프로그래밍** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Socket](https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket.io&logoColor=white)
-
-<div align="center">
-  <img src="images/network_banner.jpg" alt="Network Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
+### 👉 **Network::네트워크 프로그래밍** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Socket](https://img.shields.io/badge/Socket-000000?style=plastic&logo=socket.io&logoColor=white)
 - **TCP/UDP 소켓**: 클라이언트-서버 구조, 멀티플레이 동기화
 - **비동기 I/O**: epoll, IOCP 기반 이벤트 기반 서버 개발
 - **리눅스 시스템**: 서버 환경 구축 및 성능 최적화
 
-### **Ide::개발 도구** ![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
-
-<div align="center">
-  <img src="images/ide_banner.jpg" alt="IDE Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
+### 👉 **Ide::개발 도구** ![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 - **CLion**: C++ 통합 개발 환경, 디버깅, 프로파일링
 - **VS Code**: 크로스 플랫폼 개발, 확장 기능 활용
 
-### **Version::버전 관리** ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-
-<div align="center">
-  <img src="images/version_banner.png" alt="Version Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
+### 👉 **Version::버전 관리** ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 - **Git**: 분산 버전 관리, 브랜치 전략, 코드 리뷰
 - **GitHub**: 오픈소스 기여, 프로젝트 관리, 협업
 
@@ -78,8 +53,6 @@
 - **데이터베이스 연동**: MySQL, Redis 캐싱 및 영속성 관리
 - **알고리즘 & 성능 최적화**: O(N), O(log N) 최적화 감각
 
----
-
 ## 🚀 주요 프로젝트
 
 ### 📚 알고리즘 & 코딩 테스트
@@ -96,10 +69,6 @@
 - **2D 게임 엔진**: C++ 기반의 간단한 게임 엔진 개발
 - **물리 엔진**: 충돌 감지 및 물리 시뮬레이션 구현
 - **실시간 멀티플레이**: 동기화 기법 및 트래픽 최적화
-
----
-
-
 
 ## 📫 연락처
 
@@ -119,4 +88,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=Profile%20Views" alt="Profile Views" />
+  
+  <br><br>
+  <img src="images/ending.gif" alt="Ending" width="100%" />
 </div>
