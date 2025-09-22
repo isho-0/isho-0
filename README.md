@@ -85,12 +85,7 @@
 
 ---
 
-## 🐱 프로필 조회
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=Profile%20Views" alt="Profile Views" />
-</div>
 
 ## 📫 연락처
 
@@ -106,4 +101,8 @@
   <a href="mailto:isho010607@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=Profile%20Views" alt="Profile Views" />
 </div>
