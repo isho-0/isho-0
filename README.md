@@ -85,10 +85,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <br><br>
+  <br>
+  
+  <img src="images/ending.gif" alt="Ending" width="100%" />
+  
+  <br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://komarev.com/ghpvc/?username=isho-0&style=flat-square&color=58A6FF&label=Profile%20Views" alt="Profile Views" />
-  
-  <br><br>
-  <img src="images/ending.gif" alt="Ending" width="100%" />
 </div>
