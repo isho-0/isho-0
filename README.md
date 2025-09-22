@@ -10,9 +10,12 @@
 
 ## 🛠️ 기술 스택
 
-### **핵심 언어**
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
+### **language::핵심 언어** ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
+
+
+<div align="center">
+  <img src="images/cpp_banner.png" alt="C++ Banner" width="100%" />
+</div>
 
 - **C++**: 고성능 시스템 프로그래밍, 게임 엔진 개발, 메모리 관리
 - **C**: 시스템 레벨 프로그래밍, 임베디드 시스템, 성능 최적화
