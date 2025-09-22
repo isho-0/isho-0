@@ -42,6 +42,11 @@
 - **VS Code**: 크로스 플랫폼 개발, 확장 기능 활용
 
 ### **Version::버전 관리** ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+
+<div align="center">
+  <img src="images/version_banner.png" alt="Version Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</div>
+
 - **Git**: 분산 버전 관리, 브랜치 전략, 코드 리뷰
 - **GitHub**: 오픈소스 기여, 프로젝트 관리, 협업
 
